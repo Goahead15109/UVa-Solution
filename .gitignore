@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+Makefile.win
+output.txt
+*.dev
+*.layout
