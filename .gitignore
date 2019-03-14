@@ -34,3 +34,4 @@ Makefile.win
 output.txt
 *.dev
 *.layout
+*.txt
